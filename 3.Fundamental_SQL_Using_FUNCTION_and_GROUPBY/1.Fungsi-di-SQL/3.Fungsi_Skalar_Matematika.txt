@@ -1,0 +1,15 @@
+“Nja, ini aku nemu jenis fungsi lain. Fungsi skalar matematika. Ini apa yah?” sahutku sekali lagi.
+
+“Kamu sudah belajar sampai fungsi skalar ya, Aksara. Oke  kalau begitu fungsi skalar pertama yang akan kita bahas adalah fungsi skalar untuk numerik value. Fungsi ini umumnya digunakan jika kita ingin melakukan operasi matematika di SQL secara cepat dan efektif. Di SQL sendiri ada banyak fungsi matematika,” jelas Senja rinci.
+
+“Memangnya fungsi-fungsi apa saja yang bisa dilakukan di SQL?”
+
+“Untuk mengecek fungsi-fungsi apa saja yang bisa dilakukan di SQL, kita bisa membuka dokumentasi fungsi SQL di sini: https://www.postgresql.org/docs/9.5/functions-math.html, untuk postgresql database dan di sini: https://dev.mysql.com/doc/refman/8.0/en/mathematical-functions.html, untuk mysql database. Nah, sebagai bahan praktik kamu agar lebih paham kamu bisa coba beberapa fungsi saja yang umumnya digunakan seperti ini,” ujar Senja sambil mengajakku menyimak isi tampilan layar laptopnya:
+
+link gambar:
+https://ibb.co/SxZrqND
+
+Untuk memudahkan pemahaman, aku diberikan Senja tabel dummy berisi nilai siswa semester 1 dan 2 di suatu sekolah. Berikut contoh penggunaan fungsi skalar dengan menggunakan tabel dummy: 
+
+link gambar:
+https://ibb.co/MsMgMVt

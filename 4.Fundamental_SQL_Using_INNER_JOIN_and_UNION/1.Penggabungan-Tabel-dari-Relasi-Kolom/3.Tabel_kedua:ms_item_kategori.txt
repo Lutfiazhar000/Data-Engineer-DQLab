@@ -1,0 +1,12 @@
+“Perhatikan kembali ya, Aksara. Kalau ini contoh tabel kedua, yakni tabel ms_item_kategori seperti terlihat berikut ini.”
+
+gambar:
+https://ibb.co/4RHBf7B
+
+Tabel ini terdiri dari dua kolom yang berisi informasi nama tumbuhan dengan kategorinya, dan memiliki delapan baris data.
+
+“Nah, sekarang kita telah memiliki tabel kedua yaitu tabel ms_item_kategori yang memiliki delapan baris data dan berisi informasi mengenai nama tumbuhan dengan kategorinya. Sama seperti permasalahan di tabel sebelumnya, jika kita hanya memiliki tabel ms_item_kategori maka kita tidak dapat memperoleh informasi mengenai nama dan warna tumbuhan. Oleh karena itu, kita bisa menggabungkan kedua tabel tersebut menjadi satu tabel baru yang berisi informasi lengkap mengenai nama, warna dan kategori setiap barang/item, “ tambah Senja. Aku mengangguk paham.
+
+“Kalau sudah cukup mengerti contoh dua tabel tadi, kamu bisa kerjakan tugas praktik dan kuisnya. Saya akan memperhatikan.”
+
+Aku pun kembali mengambil alih laptop.

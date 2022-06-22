@@ -1,0 +1,5 @@
+Pada pembuatan program yang kompleks dan memiliki banyak fitur, kita diharuskan menggunakan fungsi. Hal ini bertujuan supaya kita tidak kesulitan untuk menulis kode programnya. Kesulitan ini bisa muncul karena banyak kode yang harus ditulis. Seiring berjalannya waktu, kode bisa menjadi sulit dibaca dan dirawat (maintenance).
+
+Dalam hal ini, fungsi dapat dianalogikan sebagai sebuah perangkat untuk tujuan tertentu. Perangkat dengan tujuan tertentu ini merupakan fitur dari program kita yang dapat dipanggil kapanpun sesuai dengan kebutuhan. Untuk membuat sebuah fungsi perlu didasari pada tujuan tertentu apa yang akan dihasilkan oleh fitur program kita.
+
+Dengan demikian, sebuah fungsi ini bersifat reusable atau dapat digunakan secara berulang. Di samping itu, penggunaan fungsi membuat program menjadi lebih terstruktur dan mudah dirawat.

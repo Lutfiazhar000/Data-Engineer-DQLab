@@ -1,0 +1,12 @@
+Sejauh ini aku tidak menemukan masalah yang signifikan, tapi ketika berusaha menggabungkan tabel aku masih kesulitan. Untungnya Senja masih di sampingku.
+
+“Nja, aku mau nanya. Jika aku amati, penggabungan tabel menghasilkan enam baris data. Sedangkan di kedua tabel asal masing-masing memiliki delapan baris data. Lalu, kenapa bisa berkurang dua baris data?” tanyaku penasaran.
+
+“Untuk menjawab pertanyaan tersebut, cobalah perhatikan gambar berikut,” jawab Senja lugas langsung memberi penjelasan lengkap bersama visualnya
+
+gambar:
+https://ibb.co/k1b2jFp
+
+Dua tabel di bagian atas yaitu tabel ms_item_kategori dan tabel ms_item_warna merupakan tabel sumber data, dan bagian bawah adalah tabel hasil penggabungan dari kedua tabel tersebut.
+
+Dari tabel hasil penggabungan terlihat bahwa baris data yang muncul hanyalah baris data yang isi datanya terdapat di kedua key columns, dan data yang isinya cocok untuk kedua tabel jumlahnya hanya enam dari total delapan baris data yang ada. Sedangkan baris data yang berisi belimbing, jamur, apel dan daun bawang, tidak terdapat di kedua tabel, sehingga baris data ini akan di-exclude dan tidak akan muncul di tabel hasil penggabungan.

@@ -1,0 +1,10 @@
+“Oke, contoh tabel pertama yang akan kita gunakan sebagai bahan latihan adalah tabel ms_item_warna seperti terlihat berikut ini,” bimbing Senja sambil memperlihatkan layar laptopnya padaku:
+
+gambar:
+https://ibb.co/BGh6Lk9
+
+“Tabel ini terdiri dari dua kolom yang berisi informasi nama buah atau sayuran dengan warnanya, dan memiliki delapan baris data,” ujar Senja.
+
+“Lalu, bagaimana langkah selanjutnya?” tanyaku menunggu.
+
+“Selanjutnya, jika permasalahan kita adalah ingin mengetahui informasi tidak hanya mengenai warna tetapi juga jenis/kategori dari setiap nama barang apakah tergolong sayuran atau buah, maka kita tidak dapat memperoleh informasi tersebut jika hanya berdasarkan tablel ms_item_warna. Oleh karena itu, kita perlu menghubungkan tabel tersebut dengan tabel lain yang berisi informasi tersebut, yaitu tabel ms_item_kategori.”

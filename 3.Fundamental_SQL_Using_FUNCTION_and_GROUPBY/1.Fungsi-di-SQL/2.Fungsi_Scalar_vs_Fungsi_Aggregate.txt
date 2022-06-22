@@ -1,0 +1,13 @@
+“Bagian fungsi nih, Nja. Boleh kasih tahu perannya apa dalam pengolahan data?” Aku mulai bertanya.
+
+“Oke, begini Aksara. Fungsi adalah metode yang digunakan untuk melakukan operasi data di database. Operasi ini bisa berupa kalkulasi numerik seperti sum, count, avg, etc; atau operasi non-numerik seperti string concatenations dan sub-strings. SQL Function dapat dibagi ke dalam 2 kategori, yaitufungsi scalar dan fungsi aggregate.”
+
+Penjelasan Senja mengundang pertanyaan baru di benakku.
+
+“Hm, apa aja sih bedanya fungsi skalar dan fungsi aggregate?”
+
+“Fungsi skalar dalam SQL digunakan untuk mengembalikan nilai tunggal (single value) dari suatu nilai input yang diberikan, sedangkan fungsi agregat dalam SQL digunakan untuk melakukan perhitungan pada sekelompok nilai dan kemudian mengembalikan nilai tunggal. Nah, biar lebih mudah dipahami mari kita bahas dan praktekkan fungsi-fungsi dari kedua kategori ini.”
+
+ Aku mengangguk. “Oke, Nja. Sejauh ini paham. Aku coba pelajari lagi yah modulnya. Kalau ada yang bingung, boleh kutanya lagi?”
+
+“Silakan”

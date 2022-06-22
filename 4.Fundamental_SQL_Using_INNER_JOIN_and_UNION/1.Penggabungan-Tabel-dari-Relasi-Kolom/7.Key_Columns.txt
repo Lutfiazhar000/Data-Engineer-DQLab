@@ -1,0 +1,10 @@
+Penjelasan selanjutnya adalah mengenai key columns dan bagaimana penggunaannya dalam menggabungkan kedua tabel.
+
+Perhatikan kembali tabel ms_item_warna dan ms_item_kategori yang telah ditemui pada pembahasan sebelumnya.
+
+gambar:
+https://ibb.co/HKL6kd2
+
+Dari rangkaian pembahasan sebelumnya, dapat disimpulkan bahwa kedua tabel tersebut memiliki hubungan/relasi yaitu pada kolom nama_barang (tabel ms_item_warna) dan kolom nama_item (tabel ms_item_kategori) karena banyak kecocokan dari isi data.
+
+ Kedua kolom ini untuk selanjutnya disebut sebagai kolom kunci atau key columns.

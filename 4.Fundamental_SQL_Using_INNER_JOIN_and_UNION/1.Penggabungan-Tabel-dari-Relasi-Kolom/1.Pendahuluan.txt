@@ -1,0 +1,15 @@
+Aku terlonjak kaget ketika merasakan sentuhan tangan di balik pundakku. Ternyata Senja. Dahinya mengernyit, menatapku penuh tanya. “Kamu tampak kebingungan, Aksara. Ada masalah?”
+
+Hening sejenak. Aku menimbang-nimbang apakah akan menyampaikan kegelisahanku pada Senja. Kutengok jam dinding di seberang meja, sudah setengah jam aku berkutat sendiri dalam ketidaktahuan. Lebih baik bertanya.
+
+“Ini, Nja. Aku dapet laporan mengenai transaksi penjualan produk kotak pensil dan flashdisk 32 GB cabang X. Sudah aku coba utak-atik dan lihat, aku nemuin kalau tabel data penjualannya enggak berisi kolom nama produk, jadi aku benar-benar bingung untuk mengidentifikasi tiap kategori produknya,” curhatku akhirnya.
+
+Aku melihat Senja tersenyum dan mendorong bangku yang teronggok di pojok ke sebelahku. “Kalau kamu sudah mahir SQL ini akan mudah. Untuk mendapatkan kolom nama produk, kamu hanya perlu menggabungkan tabel data penjualan dengan tabel lain di database yang berisi detail produk termasuk nama_produk, mekanisme penggabungan ini disebut JOIN,” jelas Senja sembari mengarahkanku.
+
+“Dengan JOIN, beberapa tabel pada suatu database bisa digabungkan satu sama lain. Kemampuan inilah sebenarnya ciri khas dan kekuatan yang membedakan RDMS dengan sistem database lain. Sudah dapat gambarannya, Aksara?” lanjut Senja.
+
+Kepala mengangguk sedikit. Aku perlu mempraktikkan sendiri agar lebih jelas. Seperti tahu keinginan dan maksudku, Senja mengajakku untuk menyelesaikan studi kasus lebih sederhana.
+
+“Oke, mari kita coba praktikkan penggunaannya lebih konkrit dengan dua contoh tabel sederhana, yaitu ms_item_warna dan ms_item_category, sehingga kita dapat dengan mudah memahami penggunaan JOIN. Jadi, kamu juga lebih mudah menyelesaikan kasus tadi.”
+
+“Siap!” Mataku berbinar.

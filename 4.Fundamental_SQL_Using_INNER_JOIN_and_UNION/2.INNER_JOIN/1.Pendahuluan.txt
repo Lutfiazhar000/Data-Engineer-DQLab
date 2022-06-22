@@ -1,0 +1,15 @@
+Pagi ini ada yang membuatku menyunggingkan senyum: menemukan laptop dan beberapa berkas kerja Senja sudah rapi di sebelah mejaku. Ini artinya Senja akan mendampingiku lagi hari ini!
+
+“Eits, jangan girang dulu! Karena bakal ada materi baru yang enggak kalah ribet dibanding kasus kamu kemarin lho,” bisik Senja dari belakang pundakku. Aku sontak membalikkan badan karena terkejut oleh kemunculan Senja yang tiba-tiba.
+
+“Senja! Bikin kaget saja.”
+
+“Sorry, hahaha. Soalnya kamu senyum-senyum sendiri begitu. Oh ya, kemarin kamu sudah mempelajari mengenai konsep dan penggunaan inner join menggunakan operator koma dengan klausa FROM…WHERE… pada perintah SELECT untuk menggabungkan dua tabel menjadi satu sumber data baru. Hari ini kita naik level ya, sudah siap?”
+
+“Pastinya,” tantangku. Senja hanya tersneyum melihat kepercayaan diriku, padahal lubuk hati terdalamku tegang juga rasanya!
+
+“Selanjutnya saya akan menjelaskan bagaimana menggabungkan dua tabel dengan metode INNER JOIN lain, yaitu dengan keyword INNER JOIN, yang memberikan hasil yang sama, tetapi dengan konstruksi atau syntax yang sedikit berbeda. Konstruksi baru ini akan memberi manfaat lebih ketika pada suatu query melibatkan beberapa join sehingga penggunaan operator koma menjadi sangat terbatas. Sampai sini sudah cukup pusing?”
+
+Lagi-lagi Senja menggodaku. Aku menggeleng mantap, walau sebenarnya ada beberapa hal yang masih asing di telingaku. Tapi, kuyakin pasti akan paham akhirnya. Optimis itu harus!
+
+“Untuk penjelasan mengenai materi JOIN dengan penggunaan keyword INNER JOIN, kita akan kembali menggunakan dua contoh tabel sederhana, yaitu ms_item_warna dan ms_item_category, sehingga kita dapat dengan mudah memahami penggunaan keyword INNER JOIN untuk menggabungkan dua tabel tersebut. Here we go, Aksara.”

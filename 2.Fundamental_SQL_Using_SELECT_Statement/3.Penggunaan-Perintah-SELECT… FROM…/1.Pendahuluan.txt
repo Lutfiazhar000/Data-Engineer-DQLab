@@ -1,0 +1,7 @@
+“Nja, aku sudah selesai dengan SQL dan RDMS. Sekarang mau lanjut ke materi SELECT. Ada catatan penting darimu soal materi lanjutan ini?” tanyaku karena biasanya Senja punya catatan khusus untuk tiap materi.
+
+ 
+
+“Oh, sudah? Kalau mau pakai perintah SELECT untuk akses data, lebih baik belajarnya langsung praktik. Sini perhatikan, sambil bawa modulnya,” tawar Senja.
+
+Nah, kan! Apa kubilang. Senja pasti punya catatan khusus sekaligus metode belajar sendiri untuk tiap materi. Enggak salah aku nanya dulu.

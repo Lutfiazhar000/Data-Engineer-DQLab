@@ -1,0 +1,14 @@
+ “Nja, sampai sini aku sudah paham bagaimana menggunakan alias dan prefix. Tapi aku masih ada pertanyaan. Terkadang kita hanya ingin menampilkan data berdasarkan kondisi tertentu, jadi kita tidak butuh semua data dari tabel. Kalau seperti itu, berarti kita hanya ingin mengambil data produk dengan nama produk tertentu. Nah, di SQL caranya gimana ya?” tanyaku. Hal ini sedari tadi membuatku penasaran.
+
+  “Untuk case dimana kita ingin mengambil data berdasarkan kondisi tertentu saja, kita bisa menggunakan filter. SQL memiliki fungsi filter dengan menggunakan klausul WHERE. Jika kondisi WHERE terpenuhi, maka hasil query hanya akan menampilkan data yang sudah terfilter.”
+
+  Seperti biasa, aku akan lebih memahami Senja jika ada praktik yang menyertai penjelasannya. Jadi kusampaikan saja, “Nja, boleh sekalian praktik enggak?”
+
+  Senja hanya tersenyum dan hafal kebiasaanku. “Oke, biar lebih mudah dipahami, selanjutnya kita akan mempraktikkan bagaimana menggunakan klausul WHERE.”
+
+  Aku pun segera membuka modul bagian klausul WHERE:
+
+ Klausul WHERE untuk:
+--Filter data dengan kondisi teks tertentu.
+--Filter data dengan nilai angka tertentu.
+--Filter data dengan dua kondisi menggunakan operator AND dan OR

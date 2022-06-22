@@ -1,0 +1,16 @@
+Modul merupakan objek python yang telah tersedia dari pengembangnya atau dapat kamu kembangkan sendiri. Dalam bahasa yang cukup sederhana, modul adalah kumpulan kode Python yang distruktur ke dalam beberapa fungsi, kelas, dan variabel. Python sendiri telahmemiliki banyak library dan module yang bisa diakses oleh pengguna secara free.
+
+Umumnya modul dikembangkan untuk tujuan umum yang luas penerapannya seperti:
+
+--untuk pengolah data numerik seperti array 1D, 2D, 3D atau hingga nD dengan contohnya adalah numpy
+
+--untuk komputasi saintifik yang berbasis metode numerik dan statistik dengan contohnya adalah scipy dan statsmodel
+
+--untuk pengolah dan analisis data seperti Microsoft Excel atau Google Spreadsheets dengan contohnya adalah pandas, pypolar, dan modin
+
+--untuk visualisasi data dengan contohnya yaitu matplotlib, seaborn, plotnine, altair, mayavi, bokeh, plotly, dll.  
+
+--untuk pembelajaran mesin dengan contohnya yaitu scikit-learn, xgboost, lightgbm, catboost, pycaret, dll
+
+--untuk deep learning dengan contohnya adalah keras, tensorflow, pytorch, cafe, dll
+Tentunya masih banyak lagi jika disebutkan. Library atau modul-modul yang telah disebutkan merupakan library yang umum digunakan oleh data scientist.

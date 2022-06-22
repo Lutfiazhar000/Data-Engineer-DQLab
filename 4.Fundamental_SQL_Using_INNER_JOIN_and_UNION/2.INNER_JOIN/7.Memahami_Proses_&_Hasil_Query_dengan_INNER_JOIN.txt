@@ -1,0 +1,19 @@
+“Perhatikan tabel hasil query pada tugas praktek sebelumnya, apakah perbedaan antara tabel sebelum penggabungan dengan INNER JOIN dan setelah penggabungan?”
+
+gambar:
+https://ibb.co/6H5g5ZH
+
+Sekarang seluruh kolom dari kedua tabel berada di satu tabel dan berisi seluruh kolom - kolom dari kedua tabel. Jadi, Aku juga dapat dengan mudah mengidentifikasi nama produk dari setiap kode produk yang dibeli oleh customer.”
+
+“Iya, benar sekali, Aksara. Sekarang perhatikan lebih lanjut dan bandingkan antara kolom kode_produk pada hasil query dengan INNER JOIN di atas, dengan kolom kode_produk pada tabel ms_produk. Menurutmu apa yang berbeda?”
+
+“Hm, aku tidak menemukan prod-06 di tabel hasil query, padahal di tabel ms_produk terdapat data prod-06 yaitu pulpen multifunction + laser DQLAB.”
+
+“Tepat sekali, selanjutnya bandingkan dengan tabel tr_penjualan, apakah kamu menemukan data prod-06 di tabel tr_penjualan?” tanya Senja kembali menguji kepemahamanku.Dan, untungnya aku tak pernah mengantuk saat mendengar penjelasan Senja sepanjang materi. Kalau iya, habislah sudah!
+
+“Tidak ada transaksi dengan kode_produksi prod-06 di tabel tr_penjualan.   Sepertinya aku mulai paham. INNER JOIN akan mencocokkan key kolom tabel tr_penjualan dengan key kolom ms_produk, jika value dari key kolom sama - sama ada di kedua tabel , maka baris itu akan dikembalikan sebagai hasil query dan membentuk satu tabel yang berisi seluruh kolom dari kedua tabel, sedangkan jika value key kolom hanya terdapat di satu kolom, maka baris ini tidak akan ditampilkan. prod-06 ada di tabel di ms_produk tetapi tidak ada di data penjualan sehingga saat penggabungan tabel dengan INNER JOIN, data prod-06 dari tabel ms_produk tidak akan muncul di hasil query.”
+
+Bibir Senja melengkung. Aku bisa mendapati senyum puas Senja atas jawabanku. Senyum apresiasi dari Senja selalu mampu menghangatkan hatiku. Senangnya! Walau sederhana tapi bermakna.
+
+“Tepat Sekali, Aksara. Sepertinya kamu sudah paham dengan penggunaan INNER JOIN. Silahkan lanjutkan  materinya di modul. Oh iya, pada bagian SELECT, kamu boleh memilih kolom mana saja yang ingin kamu tampilkan setelah kedua tabel di-JOIN.”
+

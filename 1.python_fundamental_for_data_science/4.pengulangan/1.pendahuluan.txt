@@ -1,0 +1,5 @@
+Perulangan atau looping merupakan salah satu elemen atau fungsi yang bisa dikatakan sangat menunjang untuk kebutuhan programming dan data science.
+
+Ambil contoh, seandainya kita harus memproses 1000x eksekusi code. Tentu akan menghabiskan waktu bila kita harus menulis ulang kode tersebut sebanyak 1000x juga.
+
+Selain tidak bersifat scalable, efisiensi akan mempengaruhi performa dari program yang kita buat. Seperti pada umumnya pada python juga memiliki fungsi for dan while untuk melakukan looping. Logikanya hampir sama, namun hanya berbeda dalam penulisannya jika kamu sudah terbiasa dengan C ataupun Java.

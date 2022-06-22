@@ -1,0 +1,9 @@
+Buat jadi analis data itu belajarnya banyak banget. Kemarin aku baru saja kelar belajar tentang ‘Python’, tapi kata Senja, aku masih perlu tahu soal SQL atau Structure Query Language. SQL ini nantinya akan jadi tools yang membantuku dalam menganalisis data perusahaan.
+
+Apalagi, sebentar lagi perusahaan bakal merilis data penjualan tahun lalu. Jadi butuh sekali analis data untuk mengolahnya menjadi data berbentuk agregasi, bukan lagi raw data. Mendengarnya saja aku masih bingung.
+
+“Senja, I really need your help!” kataku akhirnya setelah membaca isi modul.
+
+“Oke, jadi kamu bingung di bagian apa? Biar saya bantu jelaskan,” ujar Senja.
+
+Untungnya aku punya mentor sebaik Senja.

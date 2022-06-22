@@ -1,0 +1,19 @@
+Aku menerima modul baru dari Senja. Saat kubuka, bab baru yang menyapaku adalah “Syntax INNER JOIN”.
+
+“Sudah tahu kan bahwa tujuan JOIN adalah menggabungkan dua atau lebih tabel yang berbeda di dalam database. Nah, JOIN ini hanya bisa dilakukan apabila tabel - tabel tersebut memiliki key kolom yang sama. Di SQL, terdapat beberapa tipe JOIN yaitu : INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, dan SELF JOIN. Setiap tipe join memiliki tujuan dan hasil query yang berbeda. Pada metode INNER JOIN, baris dari kedua atau lebih tabel akan dibandingkan untuk mengecek baris - baris mana saja yang cocok satu sama lain berdasarkan kondisi JOIN yang ditentukan,” jelas Senja fasih. 
+
+“Memang JOIN itu sendiri ada berapa tipe sih, Nja?”“Untuk materi ini, kita akan ke tipe pertama, yaitu INNER JOIN. Namun demikian, pembahasan akan makin mendalam dengan memberikan konsep pengantar terlebih dahulu agar memudahkan dalam memahami tipe-tipe JOIN lainnya.”
+
+“Oh oke, Nja.”
+
+gambar:
+https://ibb.co/s2J7jPw
+
+Penggunaan prefix pada tabel_1.nama_kolom dan tabel_2.nama_kolom ditujukan agar terdapat kejelasan (clarity) kolom pada tabel mana yang dijadikan acuan dalam proses INNER JOIN. Tentunya, penggunaan prefix ini ini sangat bermanfaat jika ingin menggabungkan beberapa tabel. Untuk penjelasan lebih detail, coba ingat kembali penggunaan prefix dan alias, yang telah dipelajari pada modul "Fundamental SQL with SELECT statement chapter Prefix dan Alias".
+
+Jika masing-masing tabel tersebut dianalogikan sebagai dua himpunan maka proses INNER JOIN ekivalen dengan INTERSECTION (IRISAN) antara dua himpunan.
+
+gambar:
+https://ibb.co/f1pTW5p
+
+Proses INNER JOIN memiliki konsep penggabungan untuk records pada kedua tabel yang bernilai sama.

@@ -1,0 +1,28 @@
+Mari diperhatikan kembali gambar di bawah ini untuk penjelasan proses penggabungan.
+
+gambar:
+https://ibb.co/k1b2jFp
+
+Panah berwarna magenta menunjukkan proses pencocokan dan penggabungan data. Sebagai contoh: Baris data pertama dengan isi “bayam” pada key column nama_item (tabel ms_item_kategori), akan mencari isi yang sama di key column nama_barang (tabel ms_item_warna), dan ditemukan pada baris kedua kemudian dihubungkan menjadi satu baris di tabel baru hasil penggabungan.
+
+Pencocokan dengan pencarian ini berdasarkan bagian kondisi (conditional clause) pada query yang ditandai dengan warna kuning berikut.
+
+gambar:
+https://ibb.co/6tQWT2c
+
+Setelah seluruh data ditemukan dengan kondisi ini, dan jika tidak menentukan spesifik kolom maka seluruh kolom data dari kedua tabel akan dimunculkan dengan isi/baris data yang sama dan terdapat di kedua key column digabungkan menjadi satu baris pada tabel baru. 
+
+Isi data yang ditandai dengan warna merah adalah data yang tidak memiliki pasangan sehingga tidak bisa digabungkan, dan dengan demikian tidak memiliki data gabungan pada hasil akhir.
+
+Cara pencocokan dan penggabungan disebut dengan INNER JOIN - dimana isi dari key column kedua tabel harus cocok satu sama lain baru dapat digabungkan.
+
+Penjelasan Senja selalu lengkap seperti biasa. Aku mengintip buku catatan dari sudut mataku, tak terasa sudah sekitar tiga halaman habis oleh coretan tanganku. Malam ini harus kurapikan nih!
+
+“Satu lagi, Aksara. Saya perhatikan kamu suka sekali mencatat, jangan kelewat soal ini: jika kamu biasa bekerja dengan Excel, proses ini hampir menyerupai penggunaan fungsi vlookup. Jadi harusnya sudah terbiasa.”
+
+Aku terkekeh, “Hehehe, iya. Biar rapi. Biasanya aku taruh di buku diari juga.”
+
+“Metode belajarmu unik juga, Aksara. Kuisnya jangan lupa dikerjakan.”
+
+Aku mengangguk sambil mengangkat jari membentuk kata ‘peace’. Setelah kutelusuri lagi lebih dalam, tak hanya ada kuis saja tapi juga banyak sekali materi-materi baru lainnya! Mumpung Senja masih di sini, aku harus belajar ‘ngebut’ agar bisa bertanya kalau ada yang bingung.
+

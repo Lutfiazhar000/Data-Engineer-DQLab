@@ -1,0 +1,11 @@
+Penggabungan dua tabel menjadi satu tabel baru menggunakan query SELECT pada subbab sebelumnya dilakukan dengan cara berikut:
+
+menuliskan dua nama tabel yang akan digunakan dengan dipisahkan operator koma (,).
+menuliskan pasangan key columns dengan penghubung operator sama dengan (=) di bagian filter atau kondisi.
+ 
+Berikut adalah gambaran detil syntax penggunaan cara di atas:
+
+gambar:
+https://ibb.co/vJ3Ydw8
+
+Cara join seperti ini disebut dengan cara join menggunakan operator koma.

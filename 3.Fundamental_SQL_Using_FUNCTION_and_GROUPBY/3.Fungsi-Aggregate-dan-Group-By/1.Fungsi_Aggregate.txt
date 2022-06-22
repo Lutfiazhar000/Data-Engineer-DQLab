@@ -1,0 +1,9 @@
+“Aksara, sepertinya aku lupa menunjukkan tabel fungsi aggregate padamu. Sebentar.”
+
+Aku mengalihkan perhatianku dari layar laptop dan mendorong bangku mendekati Senja. “Ya?”
+
+“Seperti yang sudah dijelaskan bahwa fungsi aggregate ini digunakan untuk melakukan perhitungan pada sekelompok nilai. Biar lebih jelas kita akan mempraktikkan penggunaan fungsi aggregate di SQL dengan menggunakan fungsi - fungsi aggregate yang umum digunakan. Tapi sebelumnya, kamu simak saja dulu tabel fungsinya ini.”
+
+gambar:
+https://ibb.co/RPpxgqk
+

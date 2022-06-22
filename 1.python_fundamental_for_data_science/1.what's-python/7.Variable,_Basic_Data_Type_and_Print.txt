@@ -1,0 +1,49 @@
+Penggunaan variabel atau suatu objek yang bisa merepresentasikan sebuah nilai atau value sangat penting dalam bahasa pemrograman. Selain itu mempermudah dalam membaca source code, pemberian variable yang efisien juga akan membuat code berjalan optimal dan dinamis. Pada sesi kali ini kita akan belajar bagaimana cara inisialisasi variable dalam beberapa data type dan menampilkannya (print).
+
+Tipe Data
+
+Contoh
+
+Penjelasan
+
+Boolean
+
+True atau False
+
+Menyatakan benar True yang bernilai 1, atau salah False yang bernilai 0
+
+String
+
+"Ayo belajar Python"
+
+Menyatakan karakter/kalimat bisa berupa huruf angka, dll (diapit tanda " atau ')
+
+Integer
+
+25 atau 1209
+
+Menyatakan bilangan bulat
+
+Float
+
+3.14 atau 0.99
+
+Menyatakan bilangan yang mempunyai koma
+
+List
+
+['xyz', 786, 2.23]
+
+Data untaian yang menyimpan berbagai tipe data dan isinya bisa diubah-ubah
+
+Tuple
+
+('xyz', 768, 2.23)
+
+Data untaian yang menyimpan berbagai tipe data tapi isinya tidak bisa diubah
+
+Dictionary
+
+{'nama': 'adi','id':2}
+
+Data untaian yang menyimpan berbagai tipe data berupa pasangan penunjuk dan nilai
