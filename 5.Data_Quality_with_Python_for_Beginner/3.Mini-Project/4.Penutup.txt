@@ -1,0 +1,4 @@
+Congratulations! Aku telah menyelesaikan modul Data Quality with Python for Beginner. Berdasarkan materi-materi yang diberikan Kroma yang telah kupelajari dan praktekkan dalam modul ini, aku telah mendapatkan pengetahuan (knowledge) dan praktek (skill) yang diantaranya :
+
+Mampu melakukan profiling data baik untuk data angka maupun teks
+Mampu membuat rule untuk data cleansing (standarisasi data, value lookup, dan treatment duplikasi data)

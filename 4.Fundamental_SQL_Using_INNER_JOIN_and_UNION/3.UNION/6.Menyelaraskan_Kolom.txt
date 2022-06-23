@@ -1,0 +1,26 @@
+Aku diam sebentar untuk menyimak. Tapi, masih ada pertanyaan yang mengganjal di benakku.
+
+“Hmm, aku masih bingung, Nja. Kebetulan data penjualan ini berada di kedua tabel A & B jumlah kolom dan posisinya sama serta nama kolomnya sama. Bagaimana kalau posisi kolom dari kedua tabelnya tidak sama? Apa tidak bisa di-UNION-kan?”
+
+“Tentu saja bisa, kamu bisa menyelaraskan kolom dari kedua tabel di SELECT-statement. Mari kita contohkan dengan data dari tabel berikut ini.”
+
+tabel Customers
+https://ibb.co/fqD3k8T
+
+tabel Supplier
+https://ibb.co/vB4QRxN
+
+Jumlah kolom dari kedua tabel tersebut sama - sama 7 kolom, tetapi kolom posisi kolom ContactName dari kedua tabel tidak sama. Di tabel Customer, posisi kolom ContactName berada di Kolom ke - 3 sedangkan di tabel supplier berada di kolom ke-2.
+
+Jika langsung menggabungkan keduanya, tanpa menyelaraskan kolom hasilnya akan sebagai berikut:
+https://ibb.co/rG9cHy4
+
+Tentunya, ini hasil UNION yang tidak diinginkan, oleh karena itu, urutkan posisi kolom tersebut di SELECT-Statement dan juga pilih kolom yang ingin digabungkan, sehingga tidak perlu semua kolom dari kedua tabel di-UNION-kan, seperti berikut ini :
+
+SELECT CustomerName, ContactName, City, PostalCode 
+FROM Customers 
+UNION 
+SELECT SupplierName, ContactName, City, PostalCode 
+FROM Suppliers;
+
+Jika terdapat perbedaan nama kolom antara SELECT-statement pertama dan SELECT-statement kedua, maka secara default akan digunakan nama kolom dari SELECT-statement yang pertama.
