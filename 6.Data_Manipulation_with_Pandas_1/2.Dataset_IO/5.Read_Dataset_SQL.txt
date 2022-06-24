@@ -1,0 +1,5 @@
+Fungsi .read_sql() atau .read_sql_query() digunakan untuk membaca query dari database dan translate menjadi pandas dataframe, contoh case ini database sqlite.
+
+Contoh penggunaannya:
+https://ibb.co/bRXpbrm
+https://ibb.co/Z2pYcpx
